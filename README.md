@@ -1,4 +1,4 @@
-About Me
+#About Me
 
 🇭🇰00's 
-🎓EdUHK Maj:ESDC; Min: Inclu. Ed.
+🎓**EdUHK** Maj:ESDC; Min: Inclu. Ed.
