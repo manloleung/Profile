@@ -2,7 +2,10 @@
 
 🇭🇰00's 
 
-🎓EdUHK
+**Education**
+---
+🎓AA:LingU LIFE
+🎓BA:EdUHK
 - Major:English Studiues and Digital Communication
 - Minor: Inclusive Education
 
