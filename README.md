@@ -1,6 +1,4 @@
-@MLManlo
+About Me
 
-#Profile
-
-Hong Konger
+🇭🇰00's 
 🎓EdUHK Maj:ESDC; Min: Inclu. Ed.
