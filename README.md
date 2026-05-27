@@ -7,11 +7,13 @@
 - Minor: Inclusive Education
 
 **Interest**
+---
 - Listening to music
 - Drawing
 - Reading 
 
 **Favourite artist**
+---
 - BTS
 - Ian Chan
 - Anson Kong
