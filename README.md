@@ -1,6 +1,8 @@
 #About Me
 
-🇭🇰00's | 🎓EdUHK
+🇭🇰00's 
+
+🎓EdUHK
 - Major:English Studiues and Digital Communication
 - Minor: Inclusive Education
 
